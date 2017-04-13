@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BluetoothAdapterExample</string>
+    <string name="action_settings">settings</string>
+    <string name="Text_connected">Connected </string>
+    <string name="Text_disconnected">Disconnected </string>
+    <string name="Button_on">Turn On</string>
+    <string name="Button_off">Turn Off</string>
+    <string name="Button_List_Devices">List paired Devices</string>
+    <string name="Button_Find_Devices">Search new Devices\n Cancel</string>
+    <string name="Text_Status">Status: %1$s</string>
+    <string name="bluetooth_turned_on">Bluetooth turned on</string>
+    <string name="bluetooth_already_on">Bluetooth is already on</string>
+    <string name="bluetooth_turned_off">Bluetooth turned off</string>
+    <string name="bluetooth_lack_support">Your device does not support Bluetooth</string>
+    <string name="show_paired_devices">Show Paired Devices</string>
+    <string name="enabled">Enabled</string>
+    <string name="disabled">Disabled</string>
+    <string name="discover">Discoverability</string>
+</resources>
